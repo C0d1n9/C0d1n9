@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=d2v210p2r)](https://solved.ac/d2v210p2r)
 # ⚡Skills
 ### Languages
-![C++]("https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white")
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
